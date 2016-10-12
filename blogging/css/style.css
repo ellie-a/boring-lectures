@@ -1,0 +1,19 @@
+h1 {
+  background-color:#D6D6D6;
+}
+.p1{
+  width: 75%;
+  font-family: sans-serif;
+}
+
+.date {
+  font-size: 18px;
+  font-weight: bold;
+}
+.about {
+  width:50%;
+  font-style: italic;
+}
+.font {
+  color: #555555;
+}
